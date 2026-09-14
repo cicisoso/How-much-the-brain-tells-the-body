@@ -1,5 +1,7 @@
 # How much the brain tells the body: the structural bandwidth of the *Drosophila* neck connective
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22758902.svg)](https://doi.org/10.5281/zenodo.22758902)
+
 Code, per-axon tables and figures for the manuscript *"How much the brain tells the body: the structural bandwidth of the Drosophila neck connective"* (Liu, Zong, Chen and Xiong; School of Information Technology, Zhejiang Financial College).
 
 We measured the cross-sectional area of every brain–body axon in the neck connective of the male *Drosophila* central nervous system connectome (MaleCNS v1.0) directly from the 16 nm segmentation, validated the measurement (8 nm re-measurement, bilateral homologues, mesh sections, giant fiber), and repeated it on the female BANC connectome by sectioning neuron meshes at the curated neck plane. The tables in `data_tables/` are Table S1 of the paper.
@@ -43,7 +45,7 @@ Scripts resolve the data folder from `FLYBRAIN_DATA` (default `../data`) and wri
 
 ## Citation
 
-If you use these tables or code, please cite the paper (reference to be added on publication) and the MaleCNS and BANC connectome papers listed in the manuscript.
+Archived version: Zenodo, https://doi.org/10.5281/zenodo.22758902. If you use these tables or code, please cite the Zenodo record and the paper (reference to be added on publication), together with the MaleCNS and BANC connectome papers listed in the manuscript.
 
 ## License
 
