@@ -1,0 +1,93 @@
+{
+ "female_measured": 3495,
+ "female_counts": {
+  "ascending_neuron": 1729,
+  "descending_neuron": 1268,
+  "sensory_ascending": 486,
+  "sensory_descending": 12
+ },
+ "male_share_count": 0.357,
+ "male_share_sumd": 0.441,
+ "male_share_area": 0.607,
+ "male_parity_beta": 1.44,
+ "male_ratio_beta1": 0.788,
+ "male_iso_median": {
+  "descending_neuron": 0.576,
+  "ascending_neuron": 0.479,
+  "sensory_ascending": 0.427
+ },
+ "male_gini": 0.655,
+ "male_n_half_area": 287,
+ "male_frac_half_area": 0.078,
+ "female_share_count": 0.366,
+ "female_share_sumd": 0.453,
+ "female_share_area": 0.596,
+ "female_parity_beta": 1.39,
+ "female_ratio_beta1": 0.829,
+ "female_iso_median": {
+  "descending_neuron": 0.471,
+  "ascending_neuron": 0.374,
+  "sensory_ascending": 0.355
+ },
+ "female_gini": 0.585,
+ "female_n_half_area": 389,
+ "female_frac_half_area": 0.111,
+ "male_male-specific_descending_neuron": {
+  "n": 6,
+  "rel_median": 2.44,
+  "abs_median": 1.406,
+  "iso_median": 0.576,
+  "MWU_p": 0.00011
+ },
+ "male_dimorphic_descending_neuron": {
+  "n": 99,
+  "rel_median": 1.2,
+  "MWU_p": 0.00025
+ },
+ "male_male-specific_ascending_neuron": {
+  "n": 67,
+  "rel_median": 1.26,
+  "abs_median": 0.604,
+  "iso_median": 0.479,
+  "MWU_p": 0.00062
+ },
+ "male_dimorphic_ascending_neuron": {
+  "n": 63,
+  "rel_median": 0.99,
+  "MWU_p": 0.5
+ },
+ "female_female-specific_descending_neuron": {
+  "n": 16,
+  "rel_median": 0.96,
+  "abs_median": 0.453,
+  "iso_median": 0.471,
+  "MWU_p": 0.67
+ },
+ "female_dimorphic_descending_neuron": {
+  "n": 118,
+  "rel_median": 1.0,
+  "MWU_p": 0.67
+ },
+ "female_female-specific_ascending_neuron": {
+  "n": 36,
+  "rel_median": 1.02,
+  "abs_median": 0.38,
+  "iso_median": 0.374,
+  "MWU_p": 0.97
+ },
+ "female_dimorphic_ascending_neuron": {
+  "n": 266,
+  "rel_median": 0.74,
+  "MWU_p": 1.9e-17
+ },
+ "n_matched_types": 860,
+ "matched_abs_spearman": 0.888,
+ "matched_abs_median_log2_f_over_m": -0.456,
+ "matched_abs_median_log2_ci": [
+  -0.478,
+  -0.435
+ ],
+ "matched_rel_spearman": 0.878,
+ "matched_rel_median_abs_log2": 0.202,
+ "male_LR_median_abs_log2": 0.172
+}

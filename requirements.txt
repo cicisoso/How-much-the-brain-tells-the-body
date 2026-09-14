@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+pyarrow>=15
+matplotlib>=3.8
+cloud-volume>=12
+trimesh>=4.4
+shapely>=2.0
+navis>=1.9
+openpyxl>=3.1

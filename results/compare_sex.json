@@ -1,0 +1,41 @@
+{
+ "female_counts": {
+  "ascending_neuron": 1729,
+  "descending_neuron": 1268,
+  "sensory_ascending": 486,
+  "sensory_descending": 12
+ },
+ "female_area": {
+  "ascending_neuron": 267.1,
+  "descending_neuron": 478.8,
+  "sensory_ascending": 62.5,
+  "sensory_descending": 7.7
+ },
+ "female_median_diam": {
+  "ascending_neuron": 0.357,
+  "descending_neuron": 0.471,
+  "sensory_ascending": 0.343,
+  "sensory_descending": 0.519
+ },
+ "female_sum_diam": {
+  "ascending_neuron": 689.8,
+  "descending_neuron": 714.7,
+  "sensory_ascending": 182.6,
+  "sensory_descending": 8.7
+ },
+ "female_ratio_down_up_beta1.0": 0.829,
+ "female_ratio_down_up_beta2.0": 1.477,
+ "n_matched_types": 866,
+ "spearman_male_female_types": [
+  0.878,
+  0.0
+ ],
+ "pearson_log": 0.827,
+ "median_log2_ratio_f_over_m": -0.453,
+ "median_abs_log2_ratio": 0.471,
+ "female_LR_spearman": [
+  0.916,
+  0.0
+ ],
+ "female_LR_median_abs_log2": 0.143
+}

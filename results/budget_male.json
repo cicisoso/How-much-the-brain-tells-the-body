@@ -1,0 +1,67 @@
+{
+ "counts": {
+  "ascending_neuron": 1844,
+  "descending_neuron": 1307,
+  "sensory_ascending": 535,
+  "sensory_descending": 12
+ },
+ "area_um2": {
+  "ascending_neuron": 593.1,
+  "descending_neuron": 1077.2,
+  "sensory_ascending": 115.4,
+  "sensory_descending": 19.1
+ },
+ "sum_diam_um": {
+  "ascending_neuron": 1033.2,
+  "descending_neuron": 1003.0,
+  "sensory_ascending": 256.6,
+  "sensory_descending": 12.8
+ },
+ "median_diam": {
+  "ascending_neuron": 0.486,
+  "descending_neuron": 0.595,
+  "sensory_ascending": 0.427,
+  "sensory_descending": 0.718
+ },
+ "mean_diam": {
+  "ascending_neuron": 0.56,
+  "descending_neuron": 0.767,
+  "sensory_ascending": 0.48,
+  "sensory_descending": 1.066
+ },
+ "ratio_down_up_beta0.5": 0.644,
+ "bits_s_down_beta0.5": 21821,
+ "bits_s_up_beta0.5": 33906,
+ "ratio_down_up_beta1.0": 0.788,
+ "bits_s_down_beta1.0": 20316,
+ "bits_s_up_beta1.0": 25796,
+ "ratio_down_up_beta1.5": 1.042,
+ "bits_s_down_beta1.5": 21800,
+ "bits_s_up_beta1.5": 20916,
+ "ratio_down_up_beta2.0": 1.547,
+ "bits_s_down_beta2.0": 27916,
+ "bits_s_up_beta2.0": 18041,
+ "capacity_down": 82303,
+ "capacity_up": 113279,
+ "n_axons_for_half_area": 287,
+ "top10_area_share": 0.154,
+ "gini_area": 0.655,
+ "lognorm_descending_neuron": {
+  "mu": -0.49,
+  "sigma": 0.649,
+  "skew_log": 0.096,
+  "d_mode_um": 0.402
+ },
+ "lognorm_ascending_neuron": {
+  "mu": -0.722,
+  "sigma": 0.553,
+  "skew_log": -0.568,
+  "d_mode_um": 0.358
+ },
+ "lognorm_sensory_ascending": {
+  "mu": -0.824,
+  "sigma": 0.419,
+  "skew_log": 0.173,
+  "d_mode_um": 0.368
+ }
+}
