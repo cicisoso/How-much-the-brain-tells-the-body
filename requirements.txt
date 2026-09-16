@@ -8,3 +8,4 @@ trimesh>=4.4
 shapely>=2.0
 navis>=1.9
 openpyxl>=3.1
+statsmodels>=0.14

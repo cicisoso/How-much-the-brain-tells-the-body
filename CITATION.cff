@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or these tables, please cite the associated paper."
-title: "How much the brain tells the body: the structural bandwidth of the Drosophila neck connective (code and per-axon tables)"
+title: "The structural bandwidth of the neck connective between the Drosophila brain and body (code and per-axon tables)"
 authors:
   - family-names: Liu
     given-names: Hao
@@ -15,8 +15,8 @@ authors:
   - family-names: Xiong
     given-names: Jianyu
     affiliation: School of Information Technology, Zhejiang Financial College
-version: 1.0.0
-date-released: 2026-09-15
+version: 1.1.0
+date-released: 2026-09-16
 license: MIT
 doi: 10.5281/zenodo.22758902
 identifiers:

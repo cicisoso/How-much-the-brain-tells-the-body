@@ -1,0 +1,531 @@
+{
+ "descending_neuron:n_out_vnc": {
+  "n": 1299,
+  "slope": 1.38,
+  "slope_ci": [
+   1.27,
+   1.49
+  ],
+  "intercept": 3.773,
+  "rho": 0.813,
+  "p": 2.5e-306
+ },
+ "descending_neuron:n_in_brain": {
+  "n": 1296,
+  "slope": 1.45,
+  "slope_ci": [
+   1.38,
+   1.53
+  ],
+  "intercept": 3.547,
+  "rho": 0.755,
+  "p": 2.3e-239
+ },
+ "descending_neuron:n_out_partners5": {
+  "n": 1299,
+  "slope": 0.95,
+  "slope_ci": [
+   0.85,
+   1.03
+  ],
+  "intercept": 2.289,
+  "rho": 0.692,
+  "p": 9.7e-186
+ },
+ "descending_neuron:n_in_partners5": {
+  "n": 1299,
+  "slope": 1.2,
+  "slope_ci": [
+   1.12,
+   1.27
+  ],
+  "intercept": 2.165,
+  "rho": 0.749,
+  "p": 5.5e-234
+ },
+ "descending_neuron:n_out": {
+  "n": 1299,
+  "slope": 1.08,
+  "slope_ci": [
+   0.98,
+   1.16
+  ],
+  "intercept": 3.987,
+  "rho": 0.736,
+  "p": 2.2e-222
+ },
+ "descending_neuron:n_in": {
+  "n": 1299,
+  "slope": 1.44,
+  "slope_ci": [
+   1.36,
+   1.52
+  ],
+  "intercept": 3.601,
+  "rho": 0.772,
+  "p": 3.2e-257
+ },
+ "descending_neuron:quartiles": {
+  "Q1": {
+   "n": 325,
+   "d_med": 0.307,
+   "out_med": 981.0,
+   "partners_med": 47.0,
+   "type_n_med": 7.0
+  },
+  "Q2": {
+   "n": 325,
+   "d_med": 0.482,
+   "out_med": 2157.0,
+   "partners_med": 91.0,
+   "type_n_med": 2.0
+  },
+  "Q3": {
+   "n": 324,
+   "d_med": 0.743,
+   "out_med": 5275.0,
+   "partners_med": 185.0,
+   "type_n_med": 2.0
+  },
+  "Q4": {
+   "n": 325,
+   "d_med": 1.282,
+   "out_med": 10358.0,
+   "partners_med": 277.0,
+   "type_n_med": 2.0
+  }
+ },
+ "ascending_neuron:n_out_brain": {
+  "n": 1822,
+  "slope": 1.46,
+  "slope_ci": [
+   1.36,
+   1.57
+  ],
+  "intercept": 3.851,
+  "rho": 0.728,
+  "p": 2.5e-300
+ },
+ "ascending_neuron:n_in_vnc": {
+  "n": 1825,
+  "slope": 1.14,
+  "slope_ci": [
+   1.01,
+   1.25
+  ],
+  "intercept": 3.369,
+  "rho": 0.543,
+  "p": 1.8e-140
+ },
+ "ascending_neuron:n_out_partners5": {
+  "n": 1824,
+  "slope": 0.94,
+  "slope_ci": [
+   0.85,
+   1.03
+  ],
+  "intercept": 2.369,
+  "rho": 0.589,
+  "p": 1e-170
+ },
+ "ascending_neuron:n_in_partners5": {
+  "n": 1819,
+  "slope": 1.13,
+  "slope_ci": [
+   1.04,
+   1.23
+  ],
+  "intercept": 2.116,
+  "rho": 0.573,
+  "p": 1.9e-159
+ },
+ "ascending_neuron:n_out": {
+  "n": 1825,
+  "slope": 1.1,
+  "slope_ci": [
+   1.03,
+   1.19
+  ],
+  "intercept": 4.063,
+  "rho": 0.641,
+  "p": 7.3e-212
+ },
+ "ascending_neuron:n_in": {
+  "n": 1825,
+  "slope": 1.22,
+  "slope_ci": [
+   1.12,
+   1.31
+  ],
+  "intercept": 3.49,
+  "rho": 0.604,
+  "p": 5e-182
+ },
+ "ascending_neuron:quartiles": {
+  "Q1": {
+   "n": 457,
+   "d_med": 0.286,
+   "out_med": 921.0,
+   "partners_med": 58.0,
+   "type_n_med": 6.0
+  },
+  "Q2": {
+   "n": 456,
+   "d_med": 0.401,
+   "out_med": 1838.5,
+   "partners_med": 99.5,
+   "type_n_med": 4.0
+  },
+  "Q3": {
+   "n": 456,
+   "d_med": 0.584,
+   "out_med": 4075.0,
+   "partners_med": 179.0,
+   "type_n_med": 4.0
+  },
+  "Q4": {
+   "n": 456,
+   "d_med": 0.918,
+   "out_med": 7627.5,
+   "partners_med": 237.0,
+   "type_n_med": 2.0
+  }
+ },
+ "sensory_ascending:n_out_brain": {
+  "n": 528,
+  "slope": -0.43,
+  "slope_ci": [
+   -0.66,
+   -0.17
+  ],
+  "intercept": 2.607,
+  "rho": -0.225,
+  "p": 1.7e-07
+ },
+ "sensory_ascending:n_out": {
+  "n": 534,
+  "slope": -0.17,
+  "slope_ci": [
+   -0.4,
+   0.04
+  ],
+  "intercept": 3.152,
+  "rho": -0.047,
+  "p": 0.28
+ },
+ "sensory_ascending:n_in": {
+  "n": 535,
+  "slope": -0.08,
+  "slope_ci": [
+   -0.23,
+   0.08
+  ],
+  "intercept": 2.187,
+  "rho": -0.029,
+  "p": 0.51
+ },
+ "sensory_ascending:n_out_partners5": {
+  "n": 531,
+  "slope": -0.14,
+  "slope_ci": [
+   -0.31,
+   0.04
+  ],
+  "intercept": 1.553,
+  "rho": -0.117,
+  "p": 0.0069
+ },
+ "sensory_ascending:quartiles": {
+  "Q1": {
+   "n": 134,
+   "d_med": 0.27,
+   "out_med": 920.5,
+   "partners_med": 41.0,
+   "type_n_med": 22.0
+  },
+  "Q2": {
+   "n": 134,
+   "d_med": 0.37,
+   "out_med": 625.0,
+   "partners_med": 49.0,
+   "type_n_med": 37.0
+  },
+  "Q3": {
+   "n": 133,
+   "d_med": 0.499,
+   "out_med": 425.0,
+   "partners_med": 36.0,
+   "type_n_med": 74.0
+  },
+  "Q4": {
+   "n": 134,
+   "d_med": 0.75,
+   "out_med": 317.5,
+   "partners_med": 26.0,
+   "type_n_med": 39.0
+  }
+ },
+ "dn_out_vnc_model": {
+  "n": 1297,
+  "coef_logd": 1.16,
+  "coef_ci": [
+   1.1,
+   1.22
+  ],
+  "p_logd": 5.3e-206,
+  "R2_with": 0.688,
+  "R2_subclass_only": 0.352
+ },
+ "descending_neuron:out_per_um2_by_quartile": {
+  "Q1": 13153.0,
+  "Q2": 12798.0,
+  "Q3": 11707.0,
+  "Q4": 7154.0
+ },
+ "ascending_neuron:out_per_um2_by_quartile": {
+  "Q1": 15336.0,
+  "Q2": 15219.0,
+  "Q3": 15135.0,
+  "Q4": 10665.0
+ },
+ "descending_neuron:population": {
+  "n_types": 475,
+  "rho_n_vs_median_d": -0.355,
+  "p": 1.5e-15,
+  "table": {
+   "1-2": {
+    "types": 388,
+    "axons": 764,
+    "d_med": 0.794,
+    "d_q25": 0.567,
+    "d_q75": 1.125,
+    "area": 971.695,
+    "sumd": 760.335
+   },
+   "3-4": {
+    "types": 52,
+    "axons": 201,
+    "d_med": 0.508,
+    "d_q25": 0.365,
+    "d_q75": 0.7,
+    "area": 64.084,
+    "sumd": 116.82
+   },
+   "5-8": {
+    "types": 20,
+    "axons": 129,
+    "d_med": 0.315,
+    "d_q25": 0.295,
+    "d_q75": 0.393,
+    "area": 15.874,
+    "sumd": 47.966
+   },
+   ">8": {
+    "types": 15,
+    "axons": 201,
+    "d_med": 0.36,
+    "d_q25": 0.295,
+    "d_q75": 0.385,
+    "area": 24.411,
+    "sumd": 75.159
+   }
+  },
+  "kruskal_p": 2.7e-21
+ },
+ "ascending_neuron:population": {
+  "n_types": 562,
+  "rho_n_vs_median_d": -0.179,
+  "p": 2e-05,
+  "table": {
+   "1-2": {
+    "types": 365,
+    "axons": 694,
+    "d_med": 0.583,
+    "d_q25": 0.408,
+    "d_q75": 0.772,
+    "area": 287.479,
+    "sumd": 449.301
+   },
+   "3-4": {
+    "types": 93,
+    "axons": 355,
+    "d_med": 0.445,
+    "d_q25": 0.358,
+    "d_q75": 0.668,
+    "area": 109.453,
+    "sumd": 197.596
+   },
+   "5-8": {
+    "types": 83,
+    "axons": 517,
+    "d_med": 0.465,
+    "d_q25": 0.334,
+    "d_q75": 0.644,
+    "area": 136.488,
+    "sumd": 270.541
+   },
+   ">8": {
+    "types": 21,
+    "axons": 254,
+    "d_med": 0.292,
+    "d_q25": 0.252,
+    "d_q75": 0.488,
+    "area": 58.856,
+    "sumd": 112.408
+   }
+  },
+  "kruskal_p": 2.3e-07
+ },
+ "descending_neuron:nt": {
+  "table": {
+   "acetylcholine": {
+    "n": 923,
+    "d_med": 0.579,
+    "d_q25": 0.372,
+    "d_q75": 0.904,
+    "area": 864.778
+   },
+   "gaba": {
+    "n": 239,
+    "d_med": 0.524,
+    "d_q25": 0.354,
+    "d_q75": 0.867,
+    "area": 138.033
+   },
+   "glutamate": {
+    "n": 104,
+    "d_med": 0.743,
+    "d_q25": 0.592,
+    "d_q75": 0.972,
+    "area": 57.513
+   }
+  },
+  "kruskal_p": 2.1e-05,
+  "gaba_vs_ach": {
+   "U": 103097.0,
+   "p": 0.12,
+   "n": [
+    239,
+    923
+   ]
+  },
+  "glutamate_vs_ach": {
+   "U": 59666.0,
+   "p": 4.7e-05,
+   "n": [
+    104,
+    923
+   ]
+  }
+ },
+ "ascending_neuron:nt": {
+  "table": {
+   "acetylcholine": {
+    "n": 1260,
+    "d_med": 0.469,
+    "d_q25": 0.322,
+    "d_q75": 0.696,
+    "area": 380.218
+   },
+   "gaba": {
+    "n": 403,
+    "d_med": 0.488,
+    "d_q25": 0.365,
+    "d_q75": 0.726,
+    "area": 151.78
+   },
+   "glutamate": {
+    "n": 125,
+    "d_med": 0.556,
+    "d_q25": 0.402,
+    "d_q75": 0.726,
+    "area": 42.084
+   }
+  },
+  "kruskal_p": 0.00067,
+  "gaba_vs_ach": {
+   "U": 278068.0,
+   "p": 0.004,
+   "n": [
+    403,
+    1260
+   ]
+  },
+  "glutamate_vs_ach": {
+   "U": 91035.0,
+   "p": 0.004,
+   "n": [
+    125,
+    1260
+   ]
+  }
+ },
+ "sensory_ascending:nt": {
+  "table": {
+   "acetylcholine": {
+    "n": 502,
+    "d_med": 0.432,
+    "d_q25": 0.328,
+    "d_q75": 0.608,
+    "area": 109.731
+   },
+   "glutamate": {
+    "n": 11,
+    "d_med": 0.262,
+    "d_q25": 0.247,
+    "d_q75": 0.276,
+    "area": 0.607
+   }
+  },
+  "kruskal_p": 8e-06,
+  "glutamate_vs_ach": {
+   "U": 590.0,
+   "p": 8.1e-06,
+   "n": [
+    11,
+    502
+   ]
+  }
+ },
+ "synapse_totals": {
+  "down_out_vnc": 6980844,
+  "up_out_brain": 8598791,
+  "down_in_brain": 4537201,
+  "up_in_vnc": 3765340,
+  "ratio_out_down_up": 0.812,
+  "down_partners5": 240363,
+  "up_partners5": 347304
+ },
+ "sa_by_organ": {
+  "abdomen": {
+   "n": 15,
+   "rho_d_out": -0.4,
+   "p": 0.14,
+   "d_med": 0.43
+  },
+  "campaniform sensilla": {
+   "n": 251,
+   "rho_d_out": -0.16,
+   "p": 0.0092,
+   "d_med": 0.54
+  },
+  "chordotonal organ": {
+   "n": 22,
+   "rho_d_out": -0.42,
+   "p": 0.051,
+   "d_med": 0.32
+  },
+  "haltere": {
+   "n": 149,
+   "rho_d_out": 0.11,
+   "p": 0.18,
+   "d_med": 0.43
+  },
+  "leg bristle": {
+   "n": 78,
+   "rho_d_out": 0.49,
+   "p": 4.4e-06,
+   "d_med": 0.29
+  }
+ }
+}

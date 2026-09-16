@@ -1,0 +1,15 @@
+{
+ "ratio_beta1": 0.788,
+ "ratio_beta1_ci": [
+  0.751,
+  0.829
+ ],
+ "area_share_ci": [
+  0.557,
+  0.661
+ ],
+ "parity_beta_ci": [
+  1.3,
+  1.59
+ ]
+}
