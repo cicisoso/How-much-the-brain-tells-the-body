@@ -18,10 +18,10 @@ authors:
 version: 1.1.0
 date-released: 2026-09-16
 license: MIT
-doi: 10.5281/zenodo.22758902
+doi: 10.5281/zenodo.22794997
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.22758902
+    value: 10.5281/zenodo.22794997
     description: Zenodo archive of this repository
 repository-code: https://github.com/cicisoso/How-much-the-brain-tells-the-body
 keywords:

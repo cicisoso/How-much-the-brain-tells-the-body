@@ -1,6 +1,6 @@
 # The structural bandwidth of the neck connective between the *Drosophila* brain and body
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22758902.svg)](https://doi.org/10.5281/zenodo.22758902)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22794997.svg)](https://doi.org/10.5281/zenodo.22794997)
 
 Code, per-axon tables, source data and figures for the manuscript *"The structural bandwidth of the neck connective between the Drosophila brain and body"* (Liu, Zong, Chen and Xiong; School of Information Technology, Zhejiang Financial College; submitted to *Communications Biology*). Version 1.0 of this repository accompanied an earlier, shorter version of the manuscript titled "How much the brain tells the body".
 
@@ -46,7 +46,7 @@ Scripts resolve the data folder from `FLYBRAIN_DATA` (default `../data`) and rea
 
 ## Citation
 
-Archived version: Zenodo, https://doi.org/10.5281/zenodo.22758902. If you use these tables or code, please cite the Zenodo record and the paper (reference to be added on publication), together with the MaleCNS and BANC connectome papers listed in the manuscript.
+Archived version 1.1.0: Zenodo, https://doi.org/10.5281/zenodo.22794997 (version 1.0, Report manuscript: https://doi.org/10.5281/zenodo.22758902). If you use these tables or code, please cite the Zenodo record and the paper (reference to be added on publication), together with the MaleCNS and BANC connectome papers listed in the manuscript.
 
 ## License
 
