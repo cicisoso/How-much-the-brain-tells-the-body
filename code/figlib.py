@@ -1,13 +1,10 @@
 import sys, numpy as np, pandas as pd, matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-# the optional panel-alignment gate comes from the nature-figure toolkit; a no-op fallback is defined below
+# the optional panel-alignment gate comes from the nature-figure toolkit; without it the gate is a no-op
 try:
-    try:
     from audit_panel_alignment import require_matplotlib_panel_alignment  # optional QA gate (nature-figure toolkit)
 except ImportError:
-    pass
-except Exception:
     def require_matplotlib_panel_alignment(*a,**k): return None
 # Communications Biology figure lettering: Arial/Helvetica 8-12 pt, minimal size variation, lowercase panel letters
 plt.rcParams['font.family']='sans-serif'; plt.rcParams['font.sans-serif']=['Arial','Helvetica','DejaVu Sans','Liberation Sans']
