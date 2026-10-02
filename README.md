@@ -60,13 +60,13 @@ The version 1.1.0 figure scripts (`fig1_census.py`, `fig2_budget.py`, `fig3_allo
 
 | Version | Date | Manuscript | Zenodo DOI |
 |---|---|---|---|
-| 1.2.0 | 2026-10-02 | *Scaling laws of axon calibre and the capacity of the brain–body channel in Drosophila* (J. R. Soc. Interface) | see the concept DOI below |
+| 1.2.0 | 2026-10-02 | *Scaling laws of axon calibre and the capacity of the brain–body channel in Drosophila* (J. R. Soc. Interface) | 10.5281/zenodo.23097576 |
 | 1.1.0 | 2026-09-16 | *The structural bandwidth of the neck connective between the Drosophila brain and body* (Communications Biology) | 10.5281/zenodo.22794997 |
 | 1.0.0 | 2026-09-14 | *How much the brain tells the body* (Report) | 10.5281/zenodo.22758902 |
 
 ## Citation
 
-Please cite the Zenodo record: the concept DOI https://doi.org/10.5281/zenodo.22758901 always resolves to the latest version. Please also cite the paper (reference to be added on publication), together with the MaleCNS and BANC connectome papers listed in the manuscript.
+Please cite the Zenodo record of the version you used. Version 1.2.0, which accompanies the current manuscript, is https://doi.org/10.5281/zenodo.23097576; the concept DOI https://doi.org/10.5281/zenodo.22758901 always resolves to the latest version. Please also cite the paper (reference to be added on publication), together with the MaleCNS and BANC connectome papers listed in the manuscript.
 
 ## License
 
